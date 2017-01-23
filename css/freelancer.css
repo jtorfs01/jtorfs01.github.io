@@ -9,6 +9,11 @@ body {
   color: #40517C;
 }
 
+
+.video_style {
+  max-width: 100%;
+}
+
 .portfolio-link {
   font-size: 20px;
 }
