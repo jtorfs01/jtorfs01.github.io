@@ -8,6 +8,11 @@ body {
   overflow-x: hidden;
   color: #40517C;
 }
+
+.navbar-custom .navbar-nav .vision_link  a {
+  color: #D8EDE7;
+}
+
 .video_style {
   max-width: 100%;
 }
