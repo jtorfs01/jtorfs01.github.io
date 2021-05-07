@@ -529,3 +529,8 @@ fieldset[disabled] .btn-success.active {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
+
+.foo-fighters-text {
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
